@@ -1,0 +1,13 @@
+form{
+    background: pink;
+    padding: 20 px;
+
+}
+input{ margin-top: 20px;}
+input[type= "submit"]{
+    background: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
